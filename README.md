@@ -20,6 +20,4 @@
      <img align="center" alt="Isa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="Isa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
       <img align="center" alt="Isa-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div><br>
-
-![Snake animation](https://github.com/rafaballerini12/blob/output/github-contribution-grid-snake.svg)
+</div>
