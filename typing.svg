@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="56" viewBox="0 0 580 56" role="img" aria-label="WELCOME TO MY CODE UNIVERSE">
+<style>
+  .message { font: bold 22px monospace; fill: #c084fc; }
+  .cursor { fill: #c084fc; animation: blink .8s step-end infinite; }
+  .reveal { animation: type 5s steps(27,end) infinite; }
+  @keyframes type { 0% {width:0} 52%,78% {width:378px} 100% {width:0} }
+  @keyframes blink { 50% {opacity:0} }
+</style>
+<defs><clipPath id="typing"><rect class="reveal" x="99" y="0" width="0" height="56"/></clipPath></defs>
+<text x="99" y="36" class="message" clip-path="url(#typing)">WELCOME TO MY CODE UNIVERSE</text>
+<rect class="cursor" x="99" y="16" width="2" height="25" opacity="0"/>
+</svg>

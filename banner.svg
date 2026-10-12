@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="ISABELLA VICTORINO">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#160923"/><stop offset="0.5" stop-color="#4b168c"/><stop offset="1" stop-color="#190a35"/></linearGradient><radialGradient id="r"><stop stop-color="#a855f7" stop-opacity=".32"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient></defs>
+<rect width="1000" height="230" rx="13" fill="url(#g)"/><circle cx="500" cy="110" r="330" fill="url(#r)"/>
+<rect x="16" y="16" width="968" height="198" rx="8" fill="none" stroke="#b37afa" stroke-opacity=".35"/>
+<text x="500" y="116" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="59" font-weight="bold" letter-spacing="3">ISABELLA VICTORINO</text>
+<text x="500" y="155" text-anchor="middle" fill="#e5c9ff" font-family="monospace" font-size="17" letter-spacing="3">DATA • TECHNOLOGY • DEVELOPMENT</text>
+</svg>
